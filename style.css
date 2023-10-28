@@ -1,0 +1,47 @@
+* {
+	font-family: 'Oswald', sans-serif;
+}
+
+.bg {
+	background-color: #6490ab;
+	border-radius: 30px;
+}
+
+.bgb {
+	background-color: #6490ab;
+	border-radius: 0 0 30px 30px;
+}
+
+.clr {
+	color: #d1d1d1;
+}
+
+.fnt {
+	color: #6490ab;
+}
+
+.arial {
+	font-family: Arial, Helvetica, sans-serif !important;
+}
+
+.baner {
+	margin-top: -60px;
+	height: 70vh;
+	background: linear-gradient(rgba(75, 118, 145, 0.5), rgba(75, 118, 145, 0.5)), url(img/baner.jpg);
+	background-size: cover;
+	background-position: center;
+}
+
+.baten {
+	background-color: #d1d1d1 !important;
+	color: #4a6b7f !important;
+}
+
+.baten:hover {
+	background-color: #bababa !important;
+}
+
+.bgw {
+	background-color: #4a6b7f;
+	border-radius: 30px 30px 0 0;
+}
