@@ -13,7 +13,15 @@
 }
 
 .clr {
-	color: #d1d1d1;
+	color: #d1d1d1 !important;
+}
+
+.colori {
+	color: #d1d1d1 !important;
+}
+
+.colori:hover {
+	color: #4a6b7f !important;
 }
 
 .fnt {
